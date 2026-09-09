@@ -12,4 +12,8 @@ print("sum of num1 and num2=",sum)
 
 for i in range(10):
     print(i)
-
+    
+    
+print("today day ")    
+    
+print ("today is friday")
