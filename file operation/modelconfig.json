@@ -1,0 +1,11 @@
+{
+        "model_name": "gpt120b",
+        "parameters": {
+                "temprature": 0.7,
+                "gpu_accelartion": true
+        },
+        "tasks": [
+                "reg",
+                "calss"
+        ]
+}
